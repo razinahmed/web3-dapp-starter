@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/1e1e2e/8b5cf6?text=Next.js+%2B+Hardhat+%2B+Web3Modal" alt="Web3 Banner" />
+<img src="https://placehold.co/800x200/1e1e2e/8b5cf6?text=Next.js+%2B+Hardhat+%2B+Web3Modal" alt="Web3 Banner" />
 
 **The fastest way to build, test, and deploy decentralized applications (dApps) on Ethereum & Polygon.**
 
@@ -55,3 +55,4 @@ MIT License. Free to use for commercial projects.
 
 ---
 _If this boilerplate helped you launch your dApp faster, consider dropping a ⭐!_
+
